@@ -1,3 +1,2 @@
 # TelRanGit
-TelRanGit lection with Vjacheslav
-vneseno izmenenie
+Vjacheslav Andreev
